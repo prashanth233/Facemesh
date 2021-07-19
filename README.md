@@ -1,5 +1,5 @@
 # Facial Landmark Detection 
-### Machine Learning technique that detects different points on your face. Mesh is generated when points are combined together. Here the model detects 486 3D facial landmarks to infer the approximate surface geometry of the human face.\
+### Machine Learning technique that detects different points on your face. Mesh is generated when points are combined together. Here the model detects 486 3D facial landmarks to infer the approximate surface geometry of the human face.
 
 
 
