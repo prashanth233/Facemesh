@@ -5,7 +5,11 @@
 
 In the project directory, you can run:
 
-### `npm start`
+## `npm install`
+
+Then 
+
+## `npm start`
 
 Runs the app in the development mode.\
 Then the output is displayed on (localhost:3000) in the browser.
